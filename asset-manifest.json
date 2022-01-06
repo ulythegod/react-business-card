@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-business-card/static/css/main.6dd09852.chunk.css",
+    "main.js": "/react-business-card/static/js/main.458c27e7.chunk.js",
+    "main.js.map": "/react-business-card/static/js/main.458c27e7.chunk.js.map",
+    "runtime-main.js": "/react-business-card/static/js/runtime-main.51b2303d.js",
+    "runtime-main.js.map": "/react-business-card/static/js/runtime-main.51b2303d.js.map",
+    "static/js/2.7c66882e.chunk.js": "/react-business-card/static/js/2.7c66882e.chunk.js",
+    "static/js/2.7c66882e.chunk.js.map": "/react-business-card/static/js/2.7c66882e.chunk.js.map",
+    "index.html": "/react-business-card/index.html",
+    "static/css/main.6dd09852.chunk.css.map": "/react-business-card/static/css/main.6dd09852.chunk.css.map",
+    "static/js/2.7c66882e.chunk.js.LICENSE.txt": "/react-business-card/static/js/2.7c66882e.chunk.js.LICENSE.txt",
+    "static/media/avatar.af53df7a.png": "/react-business-card/static/media/avatar.af53df7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b2303d.js",
+    "static/js/2.7c66882e.chunk.js",
+    "static/css/main.6dd09852.chunk.css",
+    "static/js/main.458c27e7.chunk.js"
+  ]
+}
