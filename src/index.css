@@ -67,8 +67,12 @@ body {
     opacity: .8;
 }
 
-.email {
+.telegram {
     background-color: white;
+}
+
+.telegram img {
+    width: 18px;
 }
 
 .button a {
